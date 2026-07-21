@@ -4,12 +4,11 @@ A simple Arduino project that controls four servo motors simultaneously. The mot
 
 ---
 
-## 📷 Project Preview
+## 📷 Project Preview & Video Demonstration
 
-![4 Servo Motors](servo_motors.png)
+[![Watch the 4-Servo Motor Demonstration](servo_motors.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-🎥 **Project Demonstration:**  
-[Watch the 4-Servo Motor Demonstration](video%204servo_motors.mp4)
+> 🎥 **Click the image above** or [Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) to see the project demonstration!
 
 ---
 
@@ -72,11 +71,4 @@ A simple Arduino project that controls four servo motors simultaneously. The mot
 ## 📁 Project Files
 
 - `servo_motors.ino` — Arduino source code.
-- `servo_motors.png` — Project circuit image.
-- `video 4servo_motors.mp4` — Project demonstration video.
-
----
-
-## 👩‍💻 Author
-
-**Jana A.**
+- `servo_motors.png` — Project circuit preview image.
