@@ -6,14 +6,13 @@ A simple Arduino project that controls four servo motors simultaneously. The mot
 
 ## 📷 Project Preview & Video Demonstration
 
-[![Watch the 4-Servo Motor Demonstration](servo_motors.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the 4-Servo Motor Demonstration](servo_motors.png)](https://youtu.be/GyYpOwb8mKQ)
 
 > 🎥 **Click the image above** or [Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) to see the project demonstration!
 
 ---
 
-## 🛠️ Components Used
-
+## 🛠️ Components Used  
 - Arduino Uno
 - 4 × Servo Motors
 - Jumper Wires
